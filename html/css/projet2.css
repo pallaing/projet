@@ -1,0 +1,32 @@
+*{
+	margin : 0;
+	padding: 0;
+}
+	
+.nav ul{
+  font-size: 100%;
+  font: inherit;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  background-image: linear-gradient(to bottom right, #74b9ff, cyan);
+  background-size: 1500px;}
+
+  .nav li {
+  display: inline-block;
+  list-style: none;
+  height: 40px;
+  line-height: 40px;
+  padding: 0px 40px;
+}
+
+.nav li a{
+  color: black;
+  text-decoration: none;
+}
+
+
+.Competence h2 {
+padding-left: 70px;
+  }
+ /*-------------------*/
+}
